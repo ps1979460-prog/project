@@ -302,7 +302,6 @@ starbuck clone
 
 
 # project 2
-
 instagram logo
 <!DOCTYPE html>
 <html lang="en">
@@ -327,7 +326,7 @@ instagram logo
 </html>
 
 
-#project 3
+# project 3
 amazon clone
 <!DOCTYPE html>
 <html lang="en">
